@@ -1,6 +1,6 @@
 # ESP Log
 
-This library gives well looking log output over console which is contains time, file, line information and your messages.
+This library provides well-formatted log output on the console, including timestamps, file and line information, and your messages.
 
 ## Usage
 

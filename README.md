@@ -1,6 +1,7 @@
 # ESP Log
 
 This library provides well-formatted log output on the console, including timestamps, file and line information, and your messages for use with ESP-IDF on Espressif's MCUs (e.g., ESP32).
+You can add this library to your project as a component. Usually it should be under components folder in your project directory.
 
 ## Usage
 

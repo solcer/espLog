@@ -14,6 +14,7 @@ log_message(LOG_INFO, , "Your formatted message here");
 [2267] [INFO] ui_task() [./components/gui/gui.c:139]: ui_task created
 [2384] [ERROR] wifi_init_sta() [./components/wifi_connect.c:153]: UNEXPECTED EVENT
 ```
+![image](https://github.com/solcer/espLog/assets/6162396/2e7b999a-cbf9-4976-bfef-df58af6dd65d)
 
 ## License
 

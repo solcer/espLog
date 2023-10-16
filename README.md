@@ -1,6 +1,6 @@
 # ESP Log
 
-This library provides well-formatted log output on the console, including timestamps, file and line information, and your messages.
+This library provides well-formatted log output on the console, including timestamps, file and line information, and your messages for use with ESP-IDF on Espressif's MCUs (e.g., ESP32).
 
 ## Usage
 
